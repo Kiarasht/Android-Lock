@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android-Lock</string>
+    <string name="pinNumber">pinNumber</string>
+    <string name="setUp">setUp</string>
+</resources>
